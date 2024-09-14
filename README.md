@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="center">Social Media:</h2>
+<h3 align="center">Social Media:</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="center">Languages:</h2>
+<h3 align="center">Languages:</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">Tools:</h2>
+<h3 align="center">Tools:</h2>
 
 ###
 
