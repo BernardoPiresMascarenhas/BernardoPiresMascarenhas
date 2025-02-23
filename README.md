@@ -5,26 +5,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoPiresMascarenhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoPiresMascarenhas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+   
 
-###
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardopiresm/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531994947303?text=Olá,%20me%20interessei%20sobre%20seu%20github%20e%20gostaria%20de%20fazer%20um%20orçamento!)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-pires-mascarenhas-3585972bb/)
 
-## Social Media
+<div align="center" >
 
-###
+
 
 <div align="center">
- <a href="https://www.linkedin.com/in/bernardo-pires-mascarenhas-3585972bb/" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
- </a> 
-  <a href="https://www.instagram.com/bernardopiresm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
-  </a>
-  <a href="mailto:bernardomasca3008@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoPiresMascarenhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardoPiresMascarenhas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
