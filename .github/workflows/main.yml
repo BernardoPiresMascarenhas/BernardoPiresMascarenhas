@@ -27,15 +27,15 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           
-          # Lista de arquivos de saída
-          # ?palette=github-dark -> usa a paleta de cores escura do GitHub
-          # pode customizar com outras paletas, ex: ?palette=solarized-dark etc.
+          # Adicionamos uma nova linha para a paleta azul personalizada
+          # A primeira cor é o fundo (transparent), as outras são para os pontos.
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake-ocean.svg?palette=ocean
+            dist/snake-blue.svg?palette=transparent,CADBFF,82A7FF,5887FF,3374FF
 
-      - name: Push snake.svg to the output branch
+      - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
