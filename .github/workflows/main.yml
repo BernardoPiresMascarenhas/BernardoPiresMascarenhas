@@ -1,26 +1,42 @@
-name: Generate Snake
+name: Generate snake animation
 
 on:
+  # Roda a cada 12 horas
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */12 * * *"
+
+  # Permite que você rode manualmente pela aba Actions
   workflow_dispatch:
 
+  # Roda toda vez que você fizer um push para a branch 'main'
+  push:
+    branches:
+      - main # Se sua branch principal for 'master', troque 'main' por 'master'
+
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write # Permissão para o workflow escrever no repositório
+
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: BernardoPiresMascarenhas
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de arquivos de saída
+          # ?palette=github-dark -> usa a paleta de cores escura do GitHub
+          # pode customizar com outras paletas, ex: ?palette=solarized-dark etc.
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-ocean.svg?palette=ocean
 
-      - name: Push to branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
