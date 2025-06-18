@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BernardoPiresMascarenhas/BernardoPiresMascarenhas/output/snake-blue.svg" alt="snake animation in blue">
+  <img src="https://raw.githubusercontent.com/BernardoPiresMascarenhas/BernardoPiresMascarenhas/output/snake-dark.svg" alt="snake">
 </div>
 
 <div align="center">
