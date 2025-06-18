@@ -26,14 +26,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          
-          # Adicionamos uma nova linha para a paleta azul personalizada
-          # A primeira cor é o fundo (transparent), as outras são para os pontos.
+
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake-ocean.svg?palette=ocean
-            dist/snake-blue.svg?palette=transparent,CADBFF,82A7FF,5887FF,3374FF
+            dist/snake-blue.svg?color_snake=#3374ff
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3
