@@ -27,8 +27,9 @@
 
 ---
 
+
 <div align="center">
-  <img src="https://github.com/BernardoPiresMascarenhas/BernardoPiresMascarenhas/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/BernardoPiresMascarenhas/BernardoPiresMascarenhas/output/snake-blue.svg" alt="snake animation in blue">
 </div>
 
 <div align="center">
