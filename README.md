@@ -16,14 +16,14 @@
 </div>
 
 ### 🤖 Main Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,postgres,js,html,css&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,mysql&perline=10)](https://skillicons.dev)
 
 
 ### 👨‍💻 Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=ts&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git,github,eclipse&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git,github,postgres,eclipse&perline=10)](https://skillicons.dev)
 
 ---
 
