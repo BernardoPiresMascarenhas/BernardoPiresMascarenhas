@@ -20,10 +20,11 @@
 
 
 ### 👨‍💻 Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=ts,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,flutter&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,vscode,git,github,postgres,eclipse&perline=10)](https://skillicons.dev)
+
 
 ---
 
