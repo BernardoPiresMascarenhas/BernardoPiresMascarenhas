@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3374ff&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20F088&height=120&section=header"/>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=3374ff&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Bernardo+Pires;Mais+conhecido+como+Pires;Faço+Ciência+da+Computação;Bem+Vindo%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=20F088&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Bernardo+Pires;Mais+conhecido+como+Pires;Faço+Ciência+da+Computação;Bem+Vindo%3A)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.instagram.com/bernardopiresm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/bernardopires.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://wa.me/5531994947303?text=Olá,%20me%20interessei%20pelo%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.linkedin.com/in/bernardo-pires-mascarenhas-3585972bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
@@ -40,4 +40,4 @@
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3374ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20F088&height=120&section=footer"/>
