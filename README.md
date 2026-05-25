@@ -11,9 +11,20 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoPiresMascarenhas&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoPiresMascarenhas&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BernardoPiresMascarenhas&theme=dark&hide_border=true&ring=20F088&fire=20F088&stroke=20F088&currStreakNum=20F088" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BernardoPiresMascarenhas&theme=matrix&row=1&column=4&margin-w=15&margin-h=15&rank=-?" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
 
 ### 🤖 Main Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,mysql&perline=10)](https://skillicons.dev)
